@@ -1,5 +1,6 @@
 ### Изучение библиотек
 - [NumPy](libs/numpy_funcs.ipynb)
+- [Pandas]
 - [PyTorch]
 - [Matplotlib]
 - [PIL]
