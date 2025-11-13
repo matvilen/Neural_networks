@@ -1,7 +1,7 @@
 ### Изучение библиотек
 - [NumPy](libs/numpy_funcs.ipynb)
-- [Pandas]
-- [PyTorch]
+- [Pandas](
+- [PyTorch](libs/PyTorch.ipynb)
 - [Matplotlib]
 - [PIL]
 - [OS]
