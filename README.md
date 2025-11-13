@@ -2,7 +2,7 @@
 - [NumPy](libs/numpy_funcs.ipynb)
 - [Pandas](
 - [PyTorch](libs/PyTorch.ipynb)
-- - Мат функции
+  - Мат функции
   - Создание модели
 - [Matplotlib]
 - [PIL]
