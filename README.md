@@ -4,6 +4,7 @@
 - [PyTorch](libs/PyTorch.ipynb)
   - Мат функции
   - Создание модели
+- [scikit-learn]
 - [Matplotlib]
 - [PIL]
 - [OS]
