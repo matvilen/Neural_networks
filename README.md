@@ -1,7 +1,7 @@
 ### Изучение библиотек
-- [NumPy](libs/numpy_funcs.ipynb)
+- [NumPy](0_libs_practice/NumPy/numpy_funcs.ipynb)
 - [Pandas]
-- [PyTorch](libs/PyTorch.ipynb)
+- [PyTorch](0_libs_practice/PyTorch/PyTorch.ipynb)
 - [scikit-learn]
 - [Matplotlib]
 - [PIL]
@@ -9,8 +9,8 @@
 ## 🔹 **Основные архитектуры нейронных сетей:**
 
 ### 1. **Полносвязные (Fully Connected / Dense)**
-- [Задача классификации]()
-- [Задача регрессии]
+- [Задача классификации](1_FCNN/Classification_FCNN.ipynb)
+- [Задача регрессии](1_FCNN/Regression_FCNN.ipynb)
 
 ### 2. **Сверточные (CNN - Convolutional Neural Networks)**
 - [ResNet]
