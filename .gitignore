@@ -1,4 +1,4 @@
 # Игнорировать все JPEG файлы
 *.jpeg
 *.jpg
-*.ipynb_checkpoints*
+*checkpoint.ipynb
