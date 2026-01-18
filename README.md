@@ -13,6 +13,9 @@
 - [Задача регрессии](1_FCNN/Regression_FCNN.ipynb)
 
 ### 2. **Сверточные (CNN - Convolutional Neural Networks)**
+- [Базовые архитектуры CNN](2_CNN/CNN_basics.ipynb)
+- [CNN для задачи классификации](2_CNN/CNN_MNIST.ipynb)
+- [CNN для задачи регрессии](2_CNN/CNN_Regression.ipynb)
 - [ResNet]
 - [VGG]
 
