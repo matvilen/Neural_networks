@@ -16,7 +16,7 @@
 - [Базовые архитектуры CNN](2_CNN/CNN_basics.ipynb)
 - [CNN для задачи классификации](2_CNN/CNN_MNIST.ipynb)
 - [CNN для задачи регрессии](2_CNN/CNN_Regression.ipynb)
-- [ResNet]
+- [ResNet](2_CNN/ResNet_Models.ipynb)
 - [VGG Models](2_CNN/VGG_Models.ipynb)
 
 ### 3. **Рекуррентные (RNN - Recurrent Neural Networks)**
