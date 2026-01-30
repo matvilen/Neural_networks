@@ -1,10 +1,6 @@
 ### Изучение библиотек
 - [NumPy](0_libs_practice/NumPy/numpy_funcs.ipynb)
-- [Pandas]
 - [PyTorch](0_libs_practice/PyTorch/PyTorch.ipynb)
-- [scikit-learn]
-- [Matplotlib]
-- [PIL]
 
 ## 🔹 **Основные архитектуры нейронных сетей:**
 
